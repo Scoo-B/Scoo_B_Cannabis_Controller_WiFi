@@ -1,4 +1,4 @@
-# Scoo_B's Air Monitor_Controller
+# Scoo_B's_Cannabis_Controller_WiFi
 
 A WiFi Cannabis Controller/Monitor (Arduino IDE) 
 that monitors the air & water environments in 2 
